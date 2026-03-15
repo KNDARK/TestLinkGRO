@@ -1,1 +1,1 @@
-tcp://0.tcp.ap.ngrok.io:14525
+tcp://pyysi-42-114-218-215.a.free.pinggy.link:39077
