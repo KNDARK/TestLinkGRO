@@ -1,1 +1,1 @@
-[2;1H 
+tcp://mcsqa-42-114-218-215.a.free.pinggy.link:32825 
