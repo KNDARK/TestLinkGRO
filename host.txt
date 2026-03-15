@@ -1,1 +1,1 @@
-tcp://mcsqa-42-114-218-215.a.free.pinggy.link:32825 
+tcp://0.tcp.ap.ngrok.io:14525
